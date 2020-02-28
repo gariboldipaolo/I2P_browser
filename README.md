@@ -1,6 +1,6 @@
 # browser
 ## impostazioni generali
-multilingua, salvataggio passwords, barra caricamento (indicatore tempo), multiutenza
+multilingua, salvataggio passwords, barra caricamento (indicatore tempo), multiutenza, pagina iniziale
 ## gestione pagina
 zoom pagine web, dark mode, schermata iniziale, trova elemento, (traduci pagina)
 ## navigazione con più tabs
